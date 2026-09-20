@@ -1,8 +1,8 @@
 a = 4   # a is an integer 
 
-b = 5.22  # b is a floating point number
+b = 5.24   # b is a floating point number
 
-c = "ALok"   #c is a string 
+c = "ALok dubey"   #c is a string 
 
 
 d = False   # d is a boolean variables 
