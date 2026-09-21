@@ -9,6 +9,7 @@ print("Number b is:", b)
 # this is string and print input = output
 
 a = int(input("Enter number 1: "))
+
 b = int(input("Enter number 2: "))
 
 print("Number a is:", a)
